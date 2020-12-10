@@ -6,5 +6,6 @@ int main()
 {
     cout << "Hello World!" << endl;
     int a;
+    int b;
     return 0;
 }
