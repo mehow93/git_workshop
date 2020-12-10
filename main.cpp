@@ -6,7 +6,7 @@ int main()
 {
     cout << "Hello World!" << endl;
     int a;
-    int b;
+    int b1;
     int c;
     int d;
     return 0;
