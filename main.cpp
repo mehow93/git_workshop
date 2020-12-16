@@ -7,8 +7,6 @@ int main()
     cout << "Hello World!" << endl;
     int c1;
     int d2;
-    int e;
-    int f;
     int g;
     int h;
     return 0;
