@@ -9,6 +9,7 @@ int main()
     int d;
     int e;
     int f;
-
+    int g;
+    int h;
     return 0;
 }
