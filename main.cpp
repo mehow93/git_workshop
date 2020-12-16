@@ -11,5 +11,6 @@ int main()
     int f;
     int g;
     int h;
+    int i;
     return 0;
 }
